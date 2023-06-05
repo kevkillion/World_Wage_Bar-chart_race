@@ -1,4 +1,4 @@
-![World Minumum Wage Race Chart](World_Minimum_Wage_race.jpg)
+!(World_Minimum_Wage_race.jpg)
 
 # **World Minimum Wage (USD per hour)**
 
