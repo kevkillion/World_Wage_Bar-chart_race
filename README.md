@@ -1,6 +1,5 @@
 ![World Minimum Wage race](https://github.com/kevkillion/World_Wage_Bar-chart_race/blob/main/World_Minimum_Wage_race.mov)
 
-https://app.flourish.studio/visualisation/13887258
 
 # **World Minimum Wage (USD per hour)**
 
